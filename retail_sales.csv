@@ -1,0 +1,25 @@
+Order_ID,Date,Customer,Product,Category,Region,Sales_INR,Quantity
+RS1001,2026-09-01,Aarav Traders,Laptop Bag,Accessories,North,1299,1
+RS1002,2026-09-01,Bright Mart,Wireless Mouse,Accessories,North,799,2
+RS1003,2026-09-02,City Store,Keyboard,Accessories,West,1499,1
+RS1004,2026-09-02,Delta Retail,USB Hub,Accessories,South,999,1
+RS1004,2026-09-02,Delta Retail,USB Hub,Accessories,South,999,1
+RS1005,2026-09-03,Elite Shop,Monitor Stand,Office,East,1899,1
+RS1006,2026-09-03,Fresh Point,Desk Lamp,Office,North,699,2
+RS1007,2026-09-04,Galaxy Mart,Notebook,Stationery,West,299,3
+RS1008,2026-09-04,Horizon Store,Pen Set,Stationery,South,199,5
+RS1009,2026-09-05,Icon Retail,Keyboard,Accessories,East,1499,1
+RS1010,2026-09-05,Jupiter Shop,USB Cable,Accessories,North,399,3
+RS1011,2026-09-06,Kite Mart,Webcam,Electronics,West,2299,1
+RS1012,2026-09-06,Lotus Store,Headphones,Electronics,South,1799,1
+RS1013,2026-09-07,Metro Retail,Power Bank,Electronics,East,1299,1
+RS1014,2026-09-07,Nova Shop,Laptop Sleeve,Accessories,North,899,1
+RS1015,2026-09-08,Orbit Mart,Mouse Pad,Accessories,West,499,2
+RS1016,2026-09-08,Prime Store,Desk Organizer,Office,South,599,2
+RS1017,2026-09-09,Quick Buy,Sticky Notes,Stationery,East,149,4
+RS1018,2026-09-09,Royal Retail,Calculator,Stationery,North,599,1
+RS1019,2026-09-10,Smart Mart,Webcam,Electronics,West,2199,1
+RS1020,2026-09-10,Urban Store,HDMI Cable,Accessories,South,499,2
+RS1020,2026-09-10,Urban Store,HDMI Cable,Accessories,South,499,2
+RS1021,2026-09-11,Value Shop,Keyboard,Accessories,East,1499,1
+RS1022,2026-09-11,Wave Retail,Keyboard,Accessories,East,1599,1
